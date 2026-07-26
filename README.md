@@ -1,3 +1,4 @@
+![image](https://github.com/IanChang-GitHub/HackerRank_Algorithms_in_CSharp/blob/main/HackerRank%20Logo.png)
 # HackerRank Algorithm
 
 ## Medium
