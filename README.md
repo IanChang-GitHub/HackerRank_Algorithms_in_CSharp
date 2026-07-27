@@ -14,7 +14,7 @@
 | The Time in Words | https://www.hackerrank.com/challenges/the-time-in-words/problem | 
 | 3D Surface Area | https://www.hackerrank.com/challenges/3d-surface-area/problem | 
 | Minimum Loss | https://www.hackerrank.com/challenges/minimum-loss/problem | 
-|  |  | 
+| Absolute Permutation | https://www.hackerrank.com/challenges/absolute-permutation/problem | 
 |  |  | 
 |  |  | 
 
