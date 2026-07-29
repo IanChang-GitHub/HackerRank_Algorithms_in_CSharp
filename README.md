@@ -34,10 +34,10 @@
 | Staircase | https://www.hackerrank.com/challenges/staircase/problem |
 | Compare the Triplets | https://www.hackerrank.com/challenges/compare-the-triplets/problem |
 | Diagonal Difference | https://www.hackerrank.com/challenges/diagonal-difference/problem |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Simple Array Sum | https://www.hackerrank.com/challenges/simple-array-sum/problem |
+| A Very Big Sum | https://www.hackerrank.com/challenges/a-very-big-sum/problem |
+| The Hurdle Race | https://www.hackerrank.com/challenges/the-hurdle-race/problem |
+| Birthday Cake Candles | https://www.hackerrank.com/challenges/birthday-cake-candles/problem |
 
 
 
