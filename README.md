@@ -18,7 +18,7 @@
 | Minimum Loss | https://www.hackerrank.com/challenges/minimum-loss/problem |
 | Absolute Permutation | https://www.hackerrank.com/challenges/absolute-permutation/problem |
 | The Bomberman Game | https://www.hackerrank.com/challenges/bomber-man/problem |
-|  |  |
+| Larry's Array | https://www.hackerrank.com/challenges/larrys-array/problem |
 |  |  |
 |  |  |
 |  |  |
