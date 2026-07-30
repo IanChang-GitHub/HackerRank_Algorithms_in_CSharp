@@ -19,7 +19,7 @@
 | Absolute Permutation | https://www.hackerrank.com/challenges/absolute-permutation/problem |
 | The Bomberman Game | https://www.hackerrank.com/challenges/bomber-man/problem |
 | Larry's Array | https://www.hackerrank.com/challenges/larrys-array/problem |
-|  |  |
+| Equal | https://www.hackerrank.com/challenges/equal/problem |
 |  |  |
 |  |  |
 |  |  |
@@ -38,6 +38,10 @@
 | A Very Big Sum | https://www.hackerrank.com/challenges/a-very-big-sum/problem |
 | The Hurdle Race | https://www.hackerrank.com/challenges/the-hurdle-race/problem |
 | Birthday Cake Candles | https://www.hackerrank.com/challenges/birthday-cake-candles/problem |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 
 
