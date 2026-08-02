@@ -20,7 +20,7 @@
 | The Bomberman Game | https://www.hackerrank.com/challenges/bomber-man/problem |
 | Larry's Array | https://www.hackerrank.com/challenges/larrys-array/problem |
 | Equal | https://www.hackerrank.com/challenges/equal/problem |
-|  |  |
+| Knapsack | https://www.hackerrank.com/challenges/unbounded-knapsack/problem |
 |  |  |
 |  |  |
 |  |  |
