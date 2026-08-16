@@ -23,7 +23,7 @@
 | Knapsack | https://www.hackerrank.com/challenges/unbounded-knapsack/problem |
 | Ema's Supercomputer | https://www.hackerrank.com/challenges/two-pluses/problem |
 | The Full Counting Sort | https://www.hackerrank.com/challenges/countingsort4/problem |
-|  |  |
+| Almost Sorted | https://www.hackerrank.com/challenges/almost-sorted/problem |
 |  |  |
 |  |  |
 |  |  |
