@@ -26,7 +26,7 @@
 | Almost Sorted | https://www.hackerrank.com/challenges/almost-sorted/problem |
 | Lily's Homework | https://www.hackerrank.com/challenges/lilys-homework/problem |
 | Fraudulent Activity Notifications | https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem |
-|  |  |
+| Sherlock and the Valid String | https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem |
 |  |  |
 
 ## Easy ★☆☆
