@@ -27,6 +27,12 @@
 | Lily's Homework | https://www.hackerrank.com/challenges/lilys-homework/problem |
 | Fraudulent Activity Notifications | https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem |
 | Sherlock and the Valid String | https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem |
+| Highest Value Palindrome | https://www.hackerrank.com/challenges/richie-rich/problem |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 |  |  |
 
 ## Easy ★☆☆
